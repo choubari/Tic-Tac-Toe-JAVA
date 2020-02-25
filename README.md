@@ -4,18 +4,21 @@ This is a School Homework that ask for about impelemeting The famous game **Tic 
 
 This exercice is very helpful to get familiar with java basics *(classes, methods, input/output, arrays ...)*
 
+
 ## Output:
 
 A simple image of the outputs:
 <p align="center">
   <img  src="https://github.com/choub26/Tic-Tac-Toe-JAVA/blob/master/tictactoe.PNG">
-<\p>
+
+
 
 ## Some important things need to be fixed or added in the future:
 
 - [ ] Random choice of the first player *(in our case X always starts first)*
 - [ ] Optional: Entering names of players and displaying the player turn by the name
 - [ ] Adding the possibility to play with the computer 
+
 
 
 ##    
