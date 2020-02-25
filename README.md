@@ -7,6 +7,7 @@ This exercice is very helpful to get familiar with java basics *(classes, method
 ## Output:
 
 A simple image of the outputs:
+
 ![console](https://github.com/choub26/Tic-Tac-Toe-JAVA/blob/master/tictactoe.PNG)
 
 
@@ -17,5 +18,7 @@ A simple image of the outputs:
 - [ ] Adding the possibility to play with the computer 
 
 
+
 Last but not least, why not coding an other version using graphic interfaces.
+
 To be continued ..
