@@ -1,6 +1,6 @@
 # TicTacToe on JAVA
 
-This is a School Homework that ask for about impelemeting The famous game **Tic Tac Toe** on JAVA, a simple implementation that run on console.
+This is a School Homework that ask for implemeting The famous game **Tic Tac Toe** on JAVA, a simple implementation that runs on console.
 
 This exercice is very helpful to get familiar with java basics *(classes, methods, input/output, arrays ...)*
 
