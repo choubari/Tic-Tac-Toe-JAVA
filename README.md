@@ -7,10 +7,10 @@ This exercice is very helpful to get familiar with java basics *(classes, method
 ## Output:
 
 A simple image of the outputs:
-![console](url)
+![console](https://github.com/choub26/Tic-Tac-Toe-JAVA/blob/master/tictactoe.PNG)
 
 
-###### Some important things need to be fixed or added in the future:
+## Some important things need to be fixed or added in the future:
 
 - [ ] Random choice of the first player *(in our case X always starts first)*
 - [ ] Optional: Entering names of players and displaying the player turn by the name
