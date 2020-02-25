@@ -8,7 +8,7 @@ This exercice is very helpful to get familiar with java basics *(classes, method
 
 A simple image of the outputs:
 <p align="center">
-![console](https://github.com/choub26/Tic-Tac-Toe-JAVA/blob/master/tictactoe.PNG)
+  <img  src="https://github.com/choub26/Tic-Tac-Toe-JAVA/blob/master/tictactoe.PNG">
 <\p>
 
 ## Some important things need to be fixed or added in the future:
